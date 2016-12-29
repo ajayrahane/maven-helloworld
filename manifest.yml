@@ -1,0 +1,5 @@
+applications:
+  - name: hello-spring-cloudajay
+    buildpack: java_buildpack
+    path: target/example-1.0-SNAPSHOT.jar
+    
