@@ -1,1 +1,3 @@
----  applications:  - name: maven-helloworld
+
+name: maven-helloworld
+buildpack: https://github.com/ajayrahane/maven-helloworld.git
