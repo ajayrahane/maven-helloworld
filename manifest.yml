@@ -1,5 +1,4 @@
 applications:
   - name: maven-helloworld
-    buildpack: java-buildpack
     path: target/example-1.0-SNAPSHOT.jar
     
